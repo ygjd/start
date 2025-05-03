@@ -9,5 +9,5 @@ pip install accelerate>=0.14.0
 pip install imageio[ffmpeg] imageio[pyav]
 
 # Start the UI
-cd /app
+cd ~/app/
 python3 gradio_server.py
